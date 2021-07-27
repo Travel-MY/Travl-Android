@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TravlApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="place_id">Place</string>
+    <string name="discover_id">Discover</string>
+    <string name="image2_id">TODO</string>
+    <string name="food_id">Food</string>
+    <string name="image1_id">image1_id</string>
+    <string name="kl">TODO</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="festivalid">Festival</string>
+    <string name="imageid">Batu Cave</string>
+    <string name="melaka0d">Melaka</string>
+    <string name="klid">Kuala Lumpur</string>
+    <string name="langkawiid">Langkawi</string>
+    <string name="melaka_id">Melaka</string>
+    <string name="cameron_highland_id">Cameron Highland</string>
+    <string name="langkawi_id">Langkawi</string>
+    <string name="kuala_lumpur_id">Kuala Lumpur</string>
+    <string name="nasi_lemak_id">Nasi Lemak</string>
+    <string name="sate_id">Sate</string>
+    <string name="ckt_id">Char Kuey Tiaw</string>
+    <string name="roti_canai_id">Roti Canai</string>
+    <string name="sarawak_gawai_id">Sarawak Gawai</string>
+    <string name="cny_id">Chinese New Year</string>
+    <string name="hari_raya_aidilfitri_id">Hari Raya Aidilfitri</string>
+    <string name="thaipusam_id">Thaipusam</string>
+</resources>
